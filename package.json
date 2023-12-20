@@ -1,0 +1,14 @@
+{
+    "name": "npm-and-webpack-playtime",
+    "version": "1.0.0",
+    "author": "aussenseiter13",
+    "scripts": {
+        "build": "webpack --config webpack.config.js"
+    },
+    "dependencies": {
+        "webpack": "*",
+        "webpack-cli": "*",
+        "style-loader": "*",
+        "css-loader": "*"
+    }
+}
